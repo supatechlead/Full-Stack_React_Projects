@@ -32,7 +32,7 @@ const useStyles = makeStyles(theme => ({
   }))
 
   export default function Home() {
-      const classed = useStyles()
+      const classes = useStyles()
       return (
         <Card className={classes.card}>
           <Typography variant="h6" className={classes.title}>
