@@ -1,4 +1,4 @@
-### MERN SKELTON
+### MERN BACKEND SKELTON
 
 Server part of the MERN SKELTON.
 
