@@ -1,3 +1,5 @@
+### MERN Simple Setup
+
 Example setup of the MERN stack technologies. \
 Remaining required libraries shall be installed using Yarn.\
 Steps to be followed:
