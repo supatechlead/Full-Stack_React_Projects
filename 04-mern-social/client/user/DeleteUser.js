@@ -61,7 +61,6 @@ export default function DeleteUser(props) {
         </DialogActions>
       </Dialog>
     </span>)
-
 }
 DeleteUser.propTypes = {
   userId: PropTypes.string.isRequired
